@@ -7,4 +7,5 @@ This project is an analysis of past contestants on the television show, Shark Ta
 This data was gotten from the september 2023 onyx data challenge.
 
 ## Insights
+### How much have the sharks invested?
 
