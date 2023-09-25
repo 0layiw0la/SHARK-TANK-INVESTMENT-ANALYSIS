@@ -7,6 +7,12 @@ This project is an analysis of past contestants on the television show, Shark Ta
 This data was gotten from the september 2023 onyx data challenge. you can find it here: https://onyxdata.ck.page/b97c9cf031
 
 ## Insights
+### How is the show doing? 
+* First we look at how the show is doing, it has 14 seasons with 1.6B+ views total and an average of 5.15M+ views for 317 episodes.
+* Season 6 episode 15 has the most views with 8.64M
+* On average each season has 22 episodes with season 2 having the least (9 episodes) and season 5,6 and 7 having the most (29 episodes).
+* On average each season has 116.55M views with Season 6 having the most views with 217 million views.
 ### How much have the sharks invested?
+Over the 14 seasons of the show the sharks (Guests included) have invested a total of 
 
 
