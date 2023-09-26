@@ -11,11 +11,12 @@ This data was gotten from the september 2023 onyx data challenge. you can find i
 * The show has had 14 seasons with 1.6B+ views total and an average of 5.15M+ views for 317 episodes.
 * Season 6 episode 15 has the most views with 8.64M
 * On average each season has 22 episodes with season 2 having the least (9 episodes) and season 5,6 and 7 having the most (29 episodes).
+  ### Insert number of episodes per season
 * On average each season has 116.55M views with Season 6 having the most views with 217 million views.
 * In 2014 the show got the most views it had in a single year with 217.42M views but has since then declined to 47.85M views in 2023.
-  ## <span style='color:red'> insert image of time series graph </span>
-  <span style="color:red;">This text is red.</span>
-### How much have the sharks invested?
+  ## insert image of time series graph 
+
+### Who is competing?
 Over the 14 seasons of the show the sharks (Guests included) have invested a total of 
 
 
