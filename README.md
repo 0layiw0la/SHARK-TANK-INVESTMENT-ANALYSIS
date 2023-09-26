@@ -1,3 +1,5 @@
+![image](https://github.com/0layiw0la/SHARK-TANK-INVESTMENT-ANALYSIS/assets/103042427/dda86362-705d-4c5a-bdd8-85527de61071)
+
 # SHARK TANK INVESTMENT ANALYSIS
 
 ## Introduction
@@ -6,7 +8,7 @@ This project is an analysis of past contestants on the television show, Shark Ta
 ## Data Source
 This data was gotten from the september 2023 onyx data challenge. you can find it here: https://onyxdata.ck.page/b97c9cf031
 
-## Insights
+# Insights
 
 ### How is the show doing? 
 * The show has had 14 seasons with 1.6B+ views total and an average of 5.15M+ views for 317 episodes.
