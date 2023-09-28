@@ -43,7 +43,7 @@ We can see there aren't many participants from the Liqour/Alcohol industry in ge
 Male participants make up the majority in 4 out of the top 5 industries with female participants having the most in only the Choldren/Education industry.
 
 
-### Investment patterns?
+### Investment patterns
 * On average participants end up with less than the requested valuation and more than the offered equity (This does not include participants who got no money).
 * But interestingly participants end up with more money invested than they asked for. $33,700 more on average.
 
