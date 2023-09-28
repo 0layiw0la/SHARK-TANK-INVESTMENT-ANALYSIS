@@ -20,17 +20,31 @@ This data was gotten from the september 2023 onyx data challenge. you can find i
 * In 2014 the show got the most views it had in a single year with 217.42M views but has since then declined to 47.85M views in 2023.
   ## insert image of time series graph 
 
+### What industries are most participants involved in?
+The top 5 industries with the most participants are the:
+* Food and Beverage industry with 21.6% of participants have their products under this category.
+* Lifestyle/home and fashion/beauty industries are the next highest with 17.8% and 17.1% respectively of total participants having products under this category.
+* Children/Education industry with 9.2% of participants.
+* Fitness/Sports/Outdoors industry with 8.9% of participants.
+
+* The industry with the least male participants is the Liqour/Alcohol 
+* There have been no female participants from the Automotive, Liqour/Alcohol and Electronics industry on the show.
+* The industry with the highest number of female participants is the Fashion/Beauty industry.
+
+We can see there aren't many participants from the Liqour/Alcohol industry in general but what other industries have few participants?
+* The Liqour/Alcohol industry has the least amount of participants making up only 0.00631% of participants followed by the Green/Cleantech and Travel industries with 0.00868% each.
+
 ### Who are the participants?
 * 55.5% of participants are all male teams with 26% being female and 18.5% are made up of mixed gedered teams.
  ### Insert gender split plot
  
-### What industries are most participants involved in?
-* The top 5 industries with the most participants are the:
-* Food and Beverage industry with 21.6% of participants have their products under this category.
-* The lifestyle/home and fashion/beauty industries are the next highest with 17.8% and 17.1% respectively of total participants having products under this category.
-
 ### Gender split of participants in the top 5 industries
+Male participants make up the majority in 4 out of the top 5 industries with female participants having the most in only the Choldren/Education industry.
 
+
+### Investment patterns?
+* On average participants end up with less than the requested valuation and more than the offered equity (This does not include participants who got no money).
+* But interestingly participants end up with more money invested than they asked for. $33,700 more on average.
 
 
 Over the 14 seasons of the show the sharks (Guests included) have invested a total of 
