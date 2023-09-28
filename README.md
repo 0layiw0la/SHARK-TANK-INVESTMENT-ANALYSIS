@@ -27,13 +27,6 @@ The top 5 industries with the most participants are the:
 * Children/Education industry with 9.2% of participants.
 * Fitness/Sports/Outdoors industry with 8.9% of participants.
 
-* The industry with the least male participants is the Liqour/Alcohol industry
-* There have been no female participants from the Automotive, Liqour/Alcohol and Electronics industries on the show.
-* The industry with the highest number of female participants is the Fashion/Beauty industry.
-
-We can see there aren't many participants from the Liqour/Alcohol industry in general but what other industries have few participants?
-* The Liqour/Alcohol industry has the least amount of participants making up only 0.00631% of participants followed by the Green/Cleantech and Travel industries with 0.00868% each.
-
 ### Who are the participants?
 * 55.5% of participants are all male teams with 26% being female and 18.5% are made up of mixed gedered teams.
  ### Insert gender split plot
